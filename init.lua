@@ -1,0 +1,2 @@
+require("nilo")
+print("hello")
