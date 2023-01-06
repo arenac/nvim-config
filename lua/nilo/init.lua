@@ -1,2 +1,2 @@
 require("nilo.remap")
-print("hello from nilo")
+require("nilo.set")

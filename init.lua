@@ -1,2 +1,2 @@
 require("nilo")
-print("hello")
+
